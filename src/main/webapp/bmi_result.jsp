@@ -3,6 +3,7 @@
    <head>
       <title>BMI Calculator</title>
    </head>
+   
 <body>
 <img src="https://www.cdc.gov/healthyweight/images/assessing/bmi-adult-fb-600x315.jpg?_=07167">
 <!--TODO: show bmi below -->
